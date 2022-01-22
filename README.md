@@ -8,3 +8,8 @@ GNU Coreutils present:
 2. false
 3. echo
 4. cat
+
+
+
+
+Inspired from the book Command Line Rust.
